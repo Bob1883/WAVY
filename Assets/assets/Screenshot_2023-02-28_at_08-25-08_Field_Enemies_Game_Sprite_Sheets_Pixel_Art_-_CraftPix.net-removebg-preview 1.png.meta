@@ -1,0 +1,549 @@
+fileFormatVersion: 2
+guid: e4ea73ccff3cc6a4794c0441627f074f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview
+        1_0
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 326.4
+        width: 87.4
+        height: 81.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dc294afdd9ca349b62a394c81282bb
+      internalID: 2007119791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview
+        1_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 326.4
+        width: 87.4
+        height: 81.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88353fbae6cef7842952891b736887ad
+      internalID: -646129253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview
+        1_2
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 326.4
+        width: 87.4
+        height: 81.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1ac7661ad2784469d7e922c8c31cc9
+      internalID: 363403206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview
+        1_3
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 326.4
+        width: 87.4
+        height: 81.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3653849253bd7af4191a4246f18fc8ea
+      internalID: 58685504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview
+        1_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 245.4
+        width: 87.4
+        height: 81.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbc26603f7edbb4ebd628e8f1eef360
+      internalID: -1402838720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview
+        1_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 245.4
+        width: 87.4
+        height: 81.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279dd8ee104049e45853a973e6a8def9
+      internalID: 38078124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview
+        1_6
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 245.4
+        width: 87.4
+        height: 81.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821891daae7f4054c9418f62eb97a144
+      internalID: 1944204048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview
+        1_7
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 245.4
+        width: 87.4
+        height: 81.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c1e4e6e70dbaa44b20a6936e619c4f
+      internalID: 54985499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview
+        1_8
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 164.4
+        width: 87.4
+        height: 81.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182302cff28bd6b408bd32403c1d2595
+      internalID: -1863740623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview
+        1_9
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 164
+        width: 87
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52f62bec29afad42ace3227d4c7d3f0
+      internalID: 195588217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview
+        1_10
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 83.4
+        width: 87.4
+        height: 81.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f59084dac6b474caeed1a57de91859
+      internalID: -458904839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview
+        1_11
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 83.4
+        width: 87.4
+        height: 81.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d90ccdf23595b428d3657a19216751
+      internalID: 545400873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview
+        1_12
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 83.4
+        width: 87.4
+        height: 81.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1faddf190c97442bcaba4639f4e08d
+      internalID: -807413339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview
+        1_13
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 83.4
+        width: 87.4
+        height: 81.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf99d356f5689d647a29b98198a6cefb
+      internalID: 1672839826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview
+        1_14
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2.4000015
+        width: 87.4
+        height: 81.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c0d3c0dff9edb458c6ebc87c70a161
+      internalID: -1292881915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview
+        1_15
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2.4000015
+        width: 87.4
+        height: 81.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a2fecabed83f04b97fd921168f6c1c
+      internalID: -1855920264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview
+        1_16
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 2.4000015
+        width: 87.4
+        height: 81.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a967367225a0bc40bdf4c4771b11c75
+      internalID: 1714614396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview
+        1_17
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2.4000015
+        width: 87.4
+        height: 81.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c20655169dca3d48927e50ee4cfa2cb
+      internalID: 1847394484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview 1_2: 363403206
+      Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview 1_12: -807413339
+      Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview 1_11: 545400873
+      Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview 1_0: 2007119791
+      Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview 1_4: -1402838720
+      Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview 1_5: 38078124
+      Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview 1_6: 1944204048
+      Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview 1_10: -458904839
+      Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview 1_1: -646129253
+      Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview 1_7: 54985499
+      Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview 1_14: -1292881915
+      Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview 1_13: 1672839826
+      Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview 1_8: -1863740623
+      Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview 1_9: 195588217
+      Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview 1_17: 1847394484
+      Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview 1_16: 1714614396
+      Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview 1_3: 58685504
+      Screenshot_2023-02-28_at_08-25-08_Field_Enemies_Game_Sprite_Sheets_Pixel_Art_-_CraftPix.net-removebg-preview 1_15: -1855920264
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
